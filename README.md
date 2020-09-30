@@ -13,7 +13,7 @@ This Tampermonkey userscript implements functionality to easily signup for event
    - Dolphin - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=dolphin).
    - UC Browser - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=ucweb).
 
-2. Click here for [installation of user script](https://raw.githubusercontent.com/kozubikmichal/tampermonkey-shivtr-quick-signup/master/main.user.js).
+2. Click here for [installation of user script](https://github.com/kozubikmichal/tampermonkey-shivtr-quick-signup/raw/master/main.user.js).
 
 3. Go to any Shivtr hosted website and navigate to event detail. Mention several new buttons depending on your characters setup.
 
